@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Sql.
 - 📫 How to reach me singamanuraag@gmail.com.
 - 😄 Pronouns: he/him.
-- ⚡ Fun fact: i live trial and error.
+- ⚡ Fun fact: i love trial and error.
 
 <!---
 Anuraag-Singam/Anuraag-Singam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
